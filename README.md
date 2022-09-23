@@ -1,2 +1,1 @@
-# HeartDiseaseClassification
-Heart Disease Clasification
+# Heart Disease Classification
